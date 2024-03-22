@@ -52,7 +52,7 @@ If included, will fail if coverage drops more than the given percentage
 ## Example usage
 
 ```yml
-uses: romeovs/lcov-reporter-action@v0.2.16
+uses: andybelltree/lcov-reporter-action@v1.7.0
 with:
   lcov-file: ./coverage/lcov.info
 ```

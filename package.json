@@ -4,7 +4,7 @@
 	"description": "Comments a pull request with the lcov code coverage",
 	"license": "MIT",
 	"author": "Romeo Van Snick",
-	"repository": "https://github.com/romeovs/lcov-reporter-action",
+	"repository": "https://github.com/andybelltree/lcov-reporter-action",
 	"keywords": [
 		"actions",
 		"pull-request",
